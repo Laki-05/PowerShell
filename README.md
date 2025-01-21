@@ -27,8 +27,10 @@ This repository showcases my proficiency in the following areas:
 	Managing on-premises Active Directory environments using the ActiveDirectory module for tasks like user and group management, GPOs, and domain services.
 	Handling Azure AD and Microsoft Entra ID with the AzureAD and Microsoft.Graph modules, focusing on hybrid identity scenarios and cloud resource management.
 
-Azure / Az PowerShell Modules
-	•	Automating Azure infrastructure management using the Az PowerShell modules for deploying and managing resources like virtual machines, storage accounts, networking, and more.
+* Azure / Az PowerShell Modules
+  
+	Automating Azure infrastructure management using the Az PowerShell modules for deploying and managing resources like virtual 		machines, storage accounts, networking, and more.
 
-General Scripting and Automation
-	•	Writing efficient, reusable, and scalable scripts to streamline IT operations and enhance productivity.
+* General Scripting and Automation
+  
+  	Writing efficient, reusable, and scalable scripts to streamline IT operations and enhance productivity. Also Eager to learn new subjects and dive into unknown waters
