@@ -20,7 +20,7 @@ This repository showcases my proficiency in the following areas:
 
 * Virtualization / Citrix SDK / Azure Virtual Desktop (AVD)
 
-	Managing Citrix environments using the Citrix PowerShell SDK for tasks such as user session management and VM provisioning.
+	Managing Citrix environments using the Citrix PowerShell SDK for tasks such as user session management.
 	Automating Azure Virtual Desktop (AVD) environments, including user assignments and configuration, with the Az.DesktopVirtualization module.
 
 * Active Directory / AzureAD / EntraID
